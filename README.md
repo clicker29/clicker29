@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning programming
 - 📫 dm me via discord for collabs
 
-Both my repositories are private
+
